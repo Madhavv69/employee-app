@@ -1,0 +1,1 @@
+console.log("Employee App Loaded Successfully");
